@@ -1,0 +1,7 @@
+C:\Users\Surramurra\Desktop\celsius\celsius\bin\Debug\celsius.exe.config
+C:\Users\Surramurra\Desktop\celsius\celsius\bin\Debug\celsius.exe
+C:\Users\Surramurra\Desktop\celsius\celsius\bin\Debug\celsius.pdb
+C:\Users\Surramurra\Desktop\celsius\celsius\obj\Debug\celsius.csprojAssemblyReference.cache
+C:\Users\Surramurra\Desktop\celsius\celsius\obj\Debug\celsius.csproj.CoreCompileInputs.cache
+C:\Users\Surramurra\Desktop\celsius\celsius\obj\Debug\celsius.exe
+C:\Users\Surramurra\Desktop\celsius\celsius\obj\Debug\celsius.pdb
